@@ -1,4 +1,4 @@
-#ifndef _multiply.h_
-#define _multiply.h_
+#ifndef _MULTIPLY_H_
+#define _MULTIPLY_H_
 multiply(int a,int b)
 #endif
