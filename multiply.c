@@ -4,8 +4,7 @@ int main()
 {
 int a=5;
 int b=8;
-int c;
-c=multiply(a,b);
+int c=multiply(a,b);
 printf("Result : %d",c);
 return 0;
 }
