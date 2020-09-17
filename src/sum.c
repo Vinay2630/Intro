@@ -1,4 +1,4 @@
-int sum(int number1, int number2)
+int sum(int a, int b)
 	{
-		return number1 + number2;
+		return a+b;
 	}
